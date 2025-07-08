@@ -1,0 +1,5 @@
+flask
+pandas
+pytrends
+requests
+playwright
